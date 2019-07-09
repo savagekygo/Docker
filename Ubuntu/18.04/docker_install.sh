@@ -28,7 +28,7 @@ sudo systemctl status docker
 sudo usermod -aG docker ${USER}
 
 # Check Docker Information 
-docker info
+sudo docker info
 
 # Sources Documentation 
 # ===============================================================================================
